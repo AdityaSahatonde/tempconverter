@@ -1,0 +1,16 @@
+.size{
+    height: 100px;
+    padding-left:55px;
+    padding-top:10px ;
+    
+    /* justify-content: center; */
+    
+}
+input{
+    height: 50px;
+    width: 200px;
+}
+p{
+    font-size: 12px;
+    font-weight: 400;
+}
